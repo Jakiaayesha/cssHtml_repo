@@ -1,0 +1,69 @@
+.header{
+	min-height: 100px;
+	background-color: #574b90;
+}
+.container{
+	overflow: hidden;
+	border: 4px solid #ff9f1a;
+
+}
+.contact{
+	width: 57%;
+	min-height:130px;
+	background-color:#A3CB38 ;
+	float: left;
+}
+.blog{
+	width: 43%;
+	min-height:130px ;
+	background-color:#ffd32a ;
+	float: left;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+.service{
+	width: 34%;
+	min-height: 120px;
+	background-color: #3dc1d3;
+	float: left;
+}
+.service-1{
+	width: 33%;
+	min-height: 120px;
+	background-color:#1B1464 ;
+	float: left;
+}
+.service-2{
+	width: 33%;
+	min-height:120px;
+	background-color:#ef5777 ;
+	float: left;
+}
+.portfollewo{
+	overflow: hidden;
+}
+.port{
+	min-height: 140px;
+	width:22%;
+	float: left;
+	border: 20px solid #ffb8b8;
+
+}
+.style-1{
+	background-color:#2c2c54 ;	
+}
+.style-2{
+	background-color:#EAB543;
+}
+.style-3{
+   background-color:#218c74 ;
+}
+.style-4{
+	background-color:#ff5252;
+} 
+.footer{
+	min-height: 100px;
+	background-color: #6D214F;
+} 
